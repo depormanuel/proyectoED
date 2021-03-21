@@ -105,7 +105,7 @@ import java.io.PrintWriter;
     
     
     /**
-     * Sobreescribe el metodo print, para imprimir los parametros del circulo
+     * Sobreescribe el metodo print, para imprimir los parametros del cono
      * en un archivo externo.
      */
     @Override
