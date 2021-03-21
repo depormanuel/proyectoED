@@ -2,7 +2,7 @@ package proyectoED;
 
 
 /**
- * Esta es la clase threeDimensionalShape , representa area y volumen de esas clases.
+ * Esta es la clase ThreeDimensionalShape , representa area y volumen de esas clases.
  * de esta clase heredan otras.
  * 
  * @author  Manuel Aranda Perez
