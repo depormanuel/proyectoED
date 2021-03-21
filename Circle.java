@@ -3,9 +3,8 @@ package proyectoED;
 
 import java.io.PrintWriter;
 /**
- * Esta es la clase circulo, que contiene radio y centro del circulo
- * El centro es un objeto de tipo Point, definido previamente. jose
- * 
+ * Esta es la clase circulo, extiende de la clase TwoDimensionalShape.
+ * La clase circulo contiene radio y centro del circulo.
  * @author  Manuel Aranda Perez
  * @version 2.0 Date: 21/03/2021
  */
