@@ -2,10 +2,9 @@ package proyectoED;
 
 
 import java.io.PrintWriter;
-
 /**
  * Esta es la clase cono, extiende de la clase ThreeDimensionalShape.
- * La clase circulo contiene radio y altura.
+ * La clase cono contiene radio y altura.
  * 
  * @author  Manuel Aranda Perez
  * @version 2.0 Date: 21/03/2021
