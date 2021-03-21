@@ -4,7 +4,7 @@ package proyectoED;
 import java.io.PrintWriter;
 /**
  * Esta es la clase circulo, que contiene radio y centro del circulo
- * El centro es un objeto de tipo Point, definido previamente.
+ * El centro es un objeto de tipo Point, definido previamente. jose
  * 
  * @author  Manuel Aranda Perez
  * @version 2.0 Date: 21/03/2021
